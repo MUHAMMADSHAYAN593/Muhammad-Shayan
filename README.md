@@ -1,65 +1,105 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shayan Akhlaq</h1>
-<h3 align="center">AI/ML Student | Frontend Web Developer | Building Real-World Projects</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Muhammad%20Shayan%20Akhlaq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Frontend%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-### 🌟 About Me
+<a href="https://www.linkedin.com/in/muhammad-shayan-akhlaq-b98872283/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:muhammadshayanakhlaq@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/MUHAMMADSHAYAN593">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- 🎓 BS Artificial Intelligence student at DHA Suffa University, Karachi
-- 💻 Frontend Web Developer intern at DHA Head Office
-- 🧠 Focused on AI/ML, with full-stack web development as a secondary skill
-- 🚀 Comfortable across JavaScript, Python, C++, and Java
-- 🛠️ Recent work spans multi-agent Python pipelines, supervised learning models, and production-facing web portals
+<br/><br/>
 
----
+<a href="https://github.com/MUHAMMADSHAYAN593">
+  <img src="https://readme-typing-svg.demolab.com/?lines=BS+AI+Student+%40+DHA+Suffa+University;Frontend+Web+Developer+%40+DHA+Head+Office;Building+multi-agent+AI+pipelines;Always+learning%2C+always+shipping;&font=Fira+Code&center=true&width=600&height=45&color=06B6D4&vCenter=true&size=22" />
+</a>
 
-### 💼 Projects
+</div>
 
-- 🔎 **Deep Research Agent** — Multi-agent Python research pipeline with a Streamlit UI
-- 🏠 **DHA Smart Home Portal** — Web portal for DHA's Security and Vigilance department with live vehicle tracking and custom map markers
-- 🏡 **House Price Prediction** — Supervised learning project using Linear Regression, packaged as a runnable Python module
-- 🏛️ **Presidium: A Nation in Your Hands** — Python/Tkinter presidential governance simulation with a supervised learning component
-- 🎓 **Online Examination System** — Java + MySQL, with AI-generated MCQs
-- ⛅ **Smart Weather App** — Java Swing + WeatherAPI, with outfit suggestions
-- 🔒 **File Encrypter with OTP Email Auth** — Java + Mailtrap
-- 🤖 **Jarvis AI Chatbot** — Java Swing + OpenRouter API, animated chat UI
-- 🎶 **Music Player** — Java + Swing GUI, mp3 support
-- 🗃 **File Management System** — Java CLI & GUI
+<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
 
-More on my [LinkedIn](https://www.linkedin.com/in/muhammad-shayan-akhlaq-b98872283/)
+## 🌟 About Me
 
----
+```python
+class Shayan:
+    def __init__(self):
+        self.role = "AI/ML Student & Frontend Web Developer"
+        self.university = "DHA Suffa University, Karachi"
+        self.internship = "Frontend Web Developer @ DHA Head Office"
+        self.focus = ["Artificial Intelligence", "Machine Learning", "Full-Stack Web Dev"]
+        self.languages = ["Python", "JavaScript", "Java", "C++"]
+        self.currently_learning = ["MERN Stack", "Spring Boot", "Applied ML"]
 
-### 📚 Currently Learning
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something real.")
 
-- Machine Learning & AI
-- Full Stack Web Development (MERN Stack)
-- Java Backend Development, Spring Boot & API Development
+me = Shayan()
+me.say_hi()
+```
 
----
+<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
 
-### 🤝 Let's Connect
+## 💼 Featured Projects
 
-- 💬 Ask me about: `AI/ML`, `React`, `Java`, `APIs`, `Software Projects`
-- 📫 Reach me at: **muhammadshayanakhlaq@gmail.com**
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-shayan-akhlaq-b98872283/)
-- 🌐 Portfolio Website: Coming Soon!
+<div align="center">
 
----
+| Project | What it does |
+|---|---|
+| 🔎 **Deep Research Agent** | Multi-agent Python research pipeline with a Streamlit UI |
+| 🏠 **DHA Smart Home Portal** | Security & Vigilance web portal with live vehicle tracking on custom map markers |
+| 🏡 **House Price Prediction** | Supervised learning (Linear Regression), packaged as a runnable Python module |
+| 🏛️ **Presidium: A Nation in Your Hands** | Python/Tkinter governance simulation with a supervised learning component |
+| 🎓 **Online Examination System** | Java + MySQL, with AI-generated MCQs |
+| ⛅ **Smart Weather App** | Java Swing + WeatherAPI, with outfit suggestions |
+| 🔒 **File Encrypter (OTP Auth)** | Java + Mailtrap email verification |
+| 🤖 **Jarvis AI Chatbot** | Java Swing + OpenRouter API, animated chat UI |
 
-### 🛠️ Languages & Tools
+</div>
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-</p>
+<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
 
----
+## 📊 GitHub Stats
 
-💡 *"Keep learning. Keep building. The best way to learn code is to create something meaningful with it."*
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MUHAMMADSHAYAN593&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADSHAYAN593&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMADSHAYAN593&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MUHAMMADSHAYAN593&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=6" />
+</div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADSHAYAN593&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,git,cpp,html,css,django&theme=dark" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andrew-torda/andrew-torda/main/rainbow-superthin.gif" width="100%">
+
+<div align="center">
+
+### 💡 *"Keep learning. Keep building. The best way to learn code is to create something meaningful with it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
